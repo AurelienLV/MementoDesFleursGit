@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memento Des Fleurs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_epreuve">EpreuveActivity</string>
+    <string name="title_activity_scores">ScoresActivity</string>
+    <string name="title_activity_momento">Momento</string>
+    <string name="title_activity_erreurs">Erreurs</string>
+    <string name="title_activity_tout">ToutActivity</string>
+</resources>
