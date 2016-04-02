@@ -56,6 +56,14 @@ public class ToutActivity extends ActionBarActivity {
         t.setText("\n\n\n\n\n");
         ll.addView(t);
 
+        TextView t2 = new TextView(this);
+        t2.setText("\n\n\n\n\n");
+        ll.addView(t2);
+
+        TextView t3 = new TextView(this);
+        t3.setText("\n\n\n\n\n");
+        ll.addView(t3);
+
         Button boutonFermer = new Button(this);
         boutonFermer.setText("Retourner à l'accueil");
         boutonFermer.setTextSize(30);
