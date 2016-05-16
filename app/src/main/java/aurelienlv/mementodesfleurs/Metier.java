@@ -192,6 +192,18 @@ public class Metier {
         fleurs.addElement(new Fleur("Liatris", "Liatris", EnumFleurs.Asteracées, R.drawable.img156));
         fleurs.addElement(new Fleur("Pâquerette", "Bellis perennis", EnumFleurs.Asteracées, R.drawable.img157));
         fleurs.addElement(new Fleur("Cinéraire", "Cinéraria", EnumFleurs.Asteracées, R.drawable.img158));
+        fleurs.addElement(new Fleur("Astrophytum", "Astrophytum", EnumFleurs.Cactacées, R.drawable.img159));
+        fleurs.addElement(new Fleur("Echinocéréus", "Echinocéréus", EnumFleurs.Cactacées, R.drawable.img160));
+        fleurs.addElement(new Fleur("Echinopsis", "Echinopsis", EnumFleurs.Cactacées, R.drawable.img161));
+        fleurs.addElement(new Fleur("Epiphyllum", "Epiphyllum", EnumFleurs.Cactacées, R.drawable.img162));
+        fleurs.addElement(new Fleur("Gymnocalycium", "Gymnocalycium", EnumFleurs.Cactacées, R.drawable.img163));
+        fleurs.addElement(new Fleur("Heliocereus", "Heliocereus", EnumFleurs.Cactacées, R.drawable.img164));
+        fleurs.addElement(new Fleur("Mammillaria", "Mammillaria", EnumFleurs.Cactacées, R.drawable.img165));
+        fleurs.addElement(new Fleur("Notocactus", "Notocactus", EnumFleurs.Cactacées, R.drawable.img166));
+        fleurs.addElement(new Fleur("Rhipsalis", "Rhipsalis", EnumFleurs.Cactacées, R.drawable.img167));
+        fleurs.addElement(new Fleur("Rhipsalidopsis", "Rhipsalidopsis", EnumFleurs.Cactacées, R.drawable.img168));
+        fleurs.addElement(new Fleur("Cactus de Noël", "Schlumbergera", EnumFleurs.Cactacées, R.drawable.img169));
+        fleurs.addElement(new Fleur("Opuntia", "Opuntia", EnumFleurs.Cactacées, R.drawable.img170));
     }
 
     public Vector<Fleur> getFleurs() {

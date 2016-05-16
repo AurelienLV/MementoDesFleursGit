@@ -73,5 +73,6 @@ public enum EnumFleurs {
     Lamiacées,
     Moracées,
     Aizoacées,
-    Asteracées
+    Asteracées,
+    Cactacées
 }
